@@ -1,2 +1,2 @@
-# TTS Helpers
-This repo aims to provide helper functions to convert image/text to audio.
+# To-Speech
+This repo aims to provide helper functions to convert image/text to speech.
